@@ -1,2 +1,5 @@
-# Geo_Spatial
-Utilizando Python para analisar as estações e distâncias para viagens na California
+# Análise geoespacial
+
+Utilizando Python para analisar geoespacial das estações e distâncias para viagens na California.
+
+Com banco de dados do Kaggle
